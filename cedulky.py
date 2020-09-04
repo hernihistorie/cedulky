@@ -10,15 +10,17 @@ def index():
     for filename in os.listdir("consoles"):
         consoles.append(filename.split(".")[0])
     return render_template("index.html",
-        consoles=consoles
-    )
+                           consoles=consoles
+                           )
+
 
 @app.route("/<console>")
 def page(console):
     with open(f"consoles/{console}.yaml", encoding="utf-8") as f:
         parameters = yaml.safe_load(f)
     return render_template("RH_Layout.html",
-        **parameters
-    )
+                           **parameters
+                           )
+
 
 app.run(debug=True)
