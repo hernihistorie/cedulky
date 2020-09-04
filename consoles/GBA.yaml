@@ -1,0 +1,22 @@
+name: GAME BOY ADVANCE
+
+years: 2001 - 2010
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 16,8 MHz CPU
+    - 288 kB RAM
+    - 96 kB video RAM
+    - displej 240 x 160 (512 barev naráz)
+    - 2 AA baterie
+
+text: >
+      Nintendo navázalo ve vládnutí trhu přenosných konzolí pomocí Game Boy série vydáním Game Boy Advance a ani kritika za stále chybějící možnost podsvícení displeje, která souvisela s 15 hodinovou životností baterek, nedokázala jeho pozicí otřást. Přestože měly herní kazetky poloviční rozměry a čtyřnásobnou kapacitu, zachoval si Game Boy Advance zpětnou kompatibilitu i pro robustnější hry obou jeho předchůdců. Další rozšíření knihovny her přišlo taky díky portům z konzole SNES, jejíž výkon dokázal Advance zastoupit. Game Boy Advance se dočkal různých přídavných zařízení jako například čtečka datových karet e-Reader, kabel na přímou komunikaci mezi GBA a GameCube, televizní přijímač TV Tuner nebo Wireless Adapter, který byl přímým předchůdcem bezdrátového multiplayeru současných konzolí od Nintenda.
+
+game: 
+
+game_image_url: 

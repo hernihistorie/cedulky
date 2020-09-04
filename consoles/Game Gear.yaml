@@ -1,0 +1,22 @@
+name: GAME GEAR
+
+years: 1990 - 2001
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 4 MHz Zilog Z80 CPU
+    - 24KB RAM
+    - podsvícený displej 160×144, až 32 barev
+    - 4 zvukové kanály
+    - 6 AA baterií
+
+text: >
+      Během svého útoku na pozici Nintenda jako krále videoherního trhu se Sega kromě domácího NES odhodlala napadnout i kapesní Game Boy. Překonat ho měl Game Gear s hardware úzce založeném na Master Systemu, domácí konzole předchozí generace, což umožnilo snadné portování a dokonce hraní původně domácích her s adaptérem Master Gear. Hlavním tahákem oproti obrovsky úspěšnému Game Boyi byl barevný podsvícený displej, který umožnil v reklamách poukazovat na očividně pokročilejší hardware. Stejně jako v případě Mega Drivu vůči (S)NES byl i Game Gear vůči Game Boyi propagován jako dospělejší varianta pro hráče, kteří nestojí o „dětské“ hry Nintenda. Game Gear nabídl rozsáhlou řadu her na kompaktních vyměnitelných kazetkách, i když šlo většinou o porty z Mega Drivu s menším počtem originálních titulů, přesto v kombinaci s relativně nízkou pořizovací cenou vyzdvihly Game Gear nad konkurenční Atari Lynx a TurboExpress. Konzoli Game Boy se mu ale i tak nikdy dohnat v úspěchu nepodařilo. Roku 2000 se Game Gear dočkal znovuvydání pod hlavičkou firmy Majesco, která snížila výrobní náklady a prodávala ho za výrazně nízkou cenu. Majesco se zasloužila i za vydání několika nových portů her z Master Systemu.
+
+game: 
+
+game_image_url: 

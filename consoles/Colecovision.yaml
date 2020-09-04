@@ -1,0 +1,22 @@
+name: COLECOVISION
+
+years: 1982 - 1985
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 3,58 MHz NEC klon Zilog Z80
+    - 1 KB RAM
+    - 16 KB video RAM
+    - grafický čip TMS9928A, rozlišení 256×192 (32 barev)
+    - zvukový čip TI SN76489A o 4 kanálech
+
+text: >
+      ColecoVision se stalo po vydání v srpnu 1982 velkým hitem. Ostatní tehdy dostupné konzole překonávalo svou grafikou na úrovni arkádových automatů a součástí balení byl port nejúspěšnější automatové hry té doby, Donkey Kong od Nintenda. Porty z automatů byly i další velké taháky konzole, ale mnohem více na zákaznické publikum zapůsobily různé rozšiřující moduly, které Coleco ke své konzoli vydávalo. Herní ovladače jako trackball a volant či adaptér na hraní her z Atari 2600 nebo dokonce modul pro syntetizaci hlasu, což bylo v té době na domácích herních zařízeních neslýchané. ColecoVisionu se dařilo i přes neúspěch jeho špatně prezentované počítačové verze zvané „Adam“ a na trhu se udrželo až do tzv. Videoherního krachu roku 1983, od kterého začaly jeho prodeje klesat a přibližně rok poté byly oficiálně ukončeny.
+
+game: 
+
+game_image_url: 

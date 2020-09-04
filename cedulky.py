@@ -15,7 +15,7 @@ def index():
 
 @app.route("/<console>")
 def page(console):
-    with open(f"consoles/{console}.yaml") as f:
+    with open(f"consoles/{console}.yaml", encoding="utf-8") as f:
         parameters = yaml.safe_load(f)
     return render_template("RH_Layout.html",
         **parameters

@@ -1,0 +1,20 @@
+name: ATARI JAGUAR
+
+years: 1993 - 1996
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - Kombinace RISC procesorů „Tom“ a „Jerry“ taktovaných na 26.59 MHz
+    - třetí procesor Motorola 68000 na 13.295 MHz, 2 MB RAM
+    - PAL či NTSC rozlišení (480i či 576i), 16-bitový stereo zvuk
+
+text: >
+      Začátkem 90. let přišla firma Atari s plánem, jak získat zpět zašlou slávu z dob před videoherním krachem roku 1983. Plán byl vytvořit dvě herní konzole: jednu, která by se dostala do prodeje rychleji a konkurovala SNES s Mega Drivem, a druhou, která by přišla později jako nejsilnější zařízení na trhu a dosavadní konkurenci převálcovala. Od plánu na první z nich ale Atari ustoupilo a rozhodlo se místo toho urychlit vývoj té silnější, Jaguaru. Do prodeje Jaguár přišel ve Spojených státech už roku 1993, čímž předběhl ostatní konzole nastupující 3D generace o téměř dva roky. Jaguar byl propagován jako úplně první 64 bitová herní konzole a i když šlo z určitého specifického úhlu pohledu o pravdu, tak se Jaguar nedokázal přicházejícím „slabším“ 32 bitovým konzolím vyrovnat. Jeho architektura nebyla šťastným prostředím pro programátory, kteří se potýkali s problémy jako nacpání detailní grafiky na cartridge o velikosti pár MB. Celkově vyšlo pouze 82 her, mezi nimiž převládaly klony z jiných platforem nad původní tvorbou a 2D hry nad zamýšleným 3D. Atari se roku 1995 pokusilo Jaguar posílit periférií pro přehrávání CD-ROM, ale toto zařízení, obecně známé jako nejporuchovější videoherní hardware vůbec, proti sílícímu PlayStationu ani Saturnu už nic nezmohlo. Pouze rok po jeho uvedení byly prodeje Jaguaru ukončeny a Atari nadobro opustilo trh s herními zařízeními.
+
+game: 
+
+game_image_url: 

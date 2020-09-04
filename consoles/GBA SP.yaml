@@ -1,0 +1,22 @@
+name: GAME BOY ADVANCE SP
+
+years: 2003 - 2010
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 16,8 MHz CPU
+    - 288 kB RAM
+    - 96 kB video RAM
+    - displej 240 x 160 (512 barev naráz)
+    - zabudovaná Li-ion baterie
+
+text: >
+      Na základě kritiky původního Game Boy Advance přišlo Nintendo s designově radikálně odlišnou revizí v podobě kompaktního zaklápěcího Game Boy Advance SP. Ten disponoval světlejší obrazovkou, která oplývala přepínatelným předním nasvícením plnícím funkci podsvícení displeje. K ní přibyla zabudovaná nabíjecí baterie, která odstranila nutnost tužkových baterií a umožnila konzoli běžet až 20 hodin (12 se zaplým světlem) v kuse. Nabíjecí adaptér byl ten samý, co později využilo i Nintendo DS. Méně kladně přijatou změnou bylo odstranění standartního konektoru pro sluchátka, jaký měly všechny předchozí Game Boy konzole, a nutnost koupit speciální adaptér nebo rovnou celá sluchátka od Nintenda. Roku 2005 v USA vyšel model disponující kromě normálního nasvícení ještě novou „intenzivní“ hodnotu, která umožňovala pohodlné hraní i na přímém slunečním světle. Do Evropy se tento model ale dostal jen ve velmi omezené kvantitě a v Japonsku dokonce nevyšel nikdy.
+
+game: 
+
+game_image_url: 

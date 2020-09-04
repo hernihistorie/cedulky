@@ -1,0 +1,23 @@
+name: AMIGA
+
+years: 1985 - 1996
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - Architektura založená na procesorech Motorola 68000
+    - 256 kB až 2 MB sdílené „Chip RAM“, rozšiřitelná až o dalších 16MB
+    - speciální čipset starající se o grafiku a zvuk
+    - možnost zobrazit až 4096 barev či rozlišení až 1024×1024
+
+text: >
+      Označení Amiga náleží sérii domácích počítačů od firmy Commodore vyráběných mezi roky 1985 a 1996. Hardware těchto počítačů byl stavěn primárně pro zvládání detailní a rychlé grafiky ve vysokém rozlišení a to hlavně pro využití ve hrách. Amiga má svůj vlastní operační systém, AmigaOS, který zpracovává 32 bitové instrukce a je známý pro své konzistentně rychlé a uživatelsky přátelské rozhraní.
+
+      Svým nástupem na trh domácích počítačů přinesla první Amiga (zpětně označená číslem 1000) značné zlepšení z hlediska výkonu oproti doposud běžně dostupným 8 bitovým počítačům, jako byl například Commodore 64, do té doby nejúspěšnější model toho samého výrobce. U nástupce první Amigy, který přišel roku 1987, došlo na rozdělení do dvou řad - jedné určené pro náročnější zákazníky, reprezentované Amigou 2000, a druhé s nižší pořizovací cenou, kterou zastupovala Amiga 500. „Pětistovka“ se stala nejprodávanějším modelem Amigy vůbec. Z dnešního hlediska je Amiga díky svému zaměření na rychlou odezvu a zpracování grafiky označována za první skutečný multimediální počítač.
+
+game: 
+
+game_image_url: 

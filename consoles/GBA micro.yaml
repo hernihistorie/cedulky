@@ -1,0 +1,21 @@
+name: GAME BOY MICRO
+
+years: 2005
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 16,8 MHz CPU
+    - 288 kB RAM
+    - 96 kB video RAM
+    - displej 240 x 160 (512 barev naráz)
+    - zabudovaná Li-ion baterie
+text: >
+      Game Boy Micro je poslední revizí konzole do ruky Game Boy Advance a byl pokusem Nintenda pokračovat s prodeji Game Boy série i s příchodem jejich nové řady konzolí, Nintendo DS, na trh. S tím souviselo po nějaký čas dodržované prohlášení Nintenda o tom, že budou i nadále vycházet nové hry pro Advance řadu konzolí. Hlavním kontrastem oproti Nintendo DS, které bylo díky výkonnějšímu hardware a dvěma obrazovkám celkem rozměrné, byly miniaturní rozměry Game Boye Micro. Měřil 10 x 5 cm a vážil pouze 80 gramů. Nevýhodou této miniaturizace byla ale ztráta zpětné kompatibility s hrami pro Game Boy a Game Boy Color. Narozdíl od Game Boy Advance SP, které obrazovku pouze nasvicovalo zepředu, měl Game Boy Micro skutečné podsvícení s tlačítky pro regulaci intenzity. Velkou zajímavostí byl přední kryt konzole, který je výměnný a umožňuje tak personalizaci pomocí stovky dalších předních krytů prodávaných Nintendem.
+
+game: 
+
+game_image_url: 

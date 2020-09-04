@@ -1,0 +1,23 @@
+name: ATARI 800
+
+years: 1979-1992
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 1.79 MHz procesor MOS Technology 6502
+    - 64 kB RAM
+    - trojice specializovaných čipů POKEY, GTIA a ANTIC
+    - rozlišení až 320×192, až 256 barev
+
+text: >
+      Atari už při vývoji slavné konzole VCS uvažovalo nad jejím nástupcem a po několikaleté pauze vydalo počítačovou platformu, která byla znatelným upgradem, i přestože po stránce architektury byla značně příbuzná. To ovšem zaručovalo mnohem vyšší výkon při zachování vysoké kompatibility a umožnilo Atari konkurovat jiným slavným počítačům konce 70. let - především značkám Commodore a Apple. Kromě výkonných čipů na grafiku a zvuk se tvůrcům osmibitové řady Atari podařilo udělat díru do světa také sběrnicí SIO, která umožňovala připojení několika externích zařízení bez nutnosti cokoli nastavovat či instalovat - zařízení si o konfiguraci řekla sama. Tento koncept se o mnoho let později znovu objevil u známé technologie USB.
+
+      Atari se po vleklé a agresivní cenové válce ujalo hrdého druhého místa za Commodorem 64, ve východním bloku ale v druhé polovině 80. let zažilo renesanci díky své dostupnosti a relativně nízké ceně. Málokomu se však chtělo utrácet za drahé a špatné dostupné disketové mechaniky a tak se nejčastějším úložným médiem pro osmibitové počítače staly audiokazety.
+
+game: 
+
+game_image_url: 

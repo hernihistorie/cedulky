@@ -1,0 +1,20 @@
+name: COMMODORE PC-I
+
+years: 1987
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 4.77 MHz Siemens 8088 CPU
+    - 512 kB RAM (rozšiřitelná na 640kB)
+    - grafika Paradise Video Controller 2 (CGA/Hercules kombinace, až 256 barev při 320×200 či 720×348 černobíle)
+
+text: >
+      I Commodore, tvůrce jednoho z nejprodávanějších počítačů vůbec, Commodore 64, se rozhodl účastnit se trhu s klony úspěšného IBM PC. Commodore obdržel smlouvu s Intelem na procesor 8088 a o pár let později přišel s prvním z řady méně zajímavých, ale přesto velmi solidních PC klonů, Commodore PC-I. Bylo zaměřené na domácnost a vyrábělo se v Západním Německu, takže se po převratu snadno dostalo i k nám. Po úspěších v Evropě se PC kompatibilní Commodory dostaly s několitaletým zpožděním i do Ameriky. K PC-I se dodával disk s MS-DOS 3.1 a GW BASIC. Zajímavostí je port na Amiga myš, který funguje bez jakéhokoli nastavení, čímž se uvolnil sériový port například pro modem. PC-I bylo elegantní a kompaktní, ale hlavně kvůli nemožnosti tento počítač rozšířit standardními kartami nebyl ani zdaleka tak úspěšný jako jeho nástupce, Commodore PC-10.
+
+game: 
+
+game_image_url: 

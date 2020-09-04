@@ -1,0 +1,24 @@
+name: COMMODORE 64
+
+years: 1982 - 1994
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 0,985 MHz MOS Technology 6510/8500 (klon 6502)
+    - 64 kB RAM; 20 kB ROM
+    - grafický čip VIC-II - 320×200 pixelů
+    - 16 barev
+    - zvukový čip SID 6581
+
+text: >
+      Po obstojném úspěchu VIC-20 (1980), počítače do každé domácnosti, byla firma Commodore rozhodnuta v tomto směru pokračovat. Se svým příštím počítačem si dala za cíl nabídnout flexibilní hardware atraktivní pro vývojáře i koncové uživatele s nízkou pořizovací cenou. To se podařilo a Commodore 64 svými prodeji trumfnul i konkurenci jakou byly firmy Atari a Apple. Základním kamenem úspěchu C64 byly jeho audiovizuální schopnosti. Možnosti, které programátorům dávaly jeho zabudované funkce, daleko přesahovaly to, co zvládala dedikovaná herní zařízení té doby.
+
+      Z hlediska lákání zákazníků přispěl i fakt, že šlo o plnohodnotný domácí počítač v době, kdy mít svůj vlastní počítač bylo tím největším trendem. S rozšíření C64 i mezi chudší domácnosti pomohla snadnost kopírování her, které byly většinou distribuované na obyčejných magnetofonových páskách. U nás si na prodeji takovýchto nelicencovaných kopií vybudovala byznys firma JRC. Commodore 64 podporoval i on-line funkcionalitu a kromě zpravodajství, e-mailu a chatu se na něm roku 1985 vyskytl Club Caribe, první perzistentní grafický online svět s hráčskou interakcí skrze avatary.
+
+game: 
+
+game_image_url: 

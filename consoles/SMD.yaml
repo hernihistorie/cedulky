@@ -1,0 +1,21 @@
+name: SEGA MEGA DRIVE
+
+years: 1988 - 1999
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 7,61 MHz Motorola 68000 CPU (koprocesor Z80)
+    - 64 kB RAM
+    - 64 kB video RAM
+    - obraz 320 x 224 (512 barev)
+
+text: >
+      Práce na nástupci Master Systemu započala Sega už hned po jeho příchodu na severoamerický trh, který byl tou dobou ovládaný Nintendem. Uvedení konzole Mega Drive na trh v Japonsku v týden vydání Super Mario Bros. 3 ale nebylo pro Segu dobrým začátkem a i později se Mega Drive v jeho rodné krajině proti konkurenčním konzolím Super Famicom (SNES) a PC Engine (TurboGrafx-16) držel jen ztěžka. Proto padlo rozhodnutí klást důraz na silný marketing při prodeji v USA. Rok po japonském vydání přišla konzole do USA pod novým názvem Sega Genesis a spustila vysoce agresivní reklamní kampaň, která přímo napadala dominantní NES. Díky rychlejšímu vkročení do nové generace mohli vyzdvihnout svůj 16-bitový hardware a vzali si na paškál i dětskou cílovou skupinu NES v porovnání s „cool“ designem Genesis cíleným hlavně na náctileté. I když Sega nezískala majoritní podíl herního trhu USA, podařilo se jí rozbít silně zakořeněný monopol, který si Nintendo vybudovalo po Videoherním krachu 80. let. V Evropě a Jižní Americe to měl Mega Drive mnohem snazší díky silnému postavení svého předchůdce. Se všemi populárními tituly vzniklými konzolovou válkou v USA neměl problémy udržet se na trhu a v případě Jižní Ameriky mu bezkonkurenčně vládnout.
+
+game: 
+
+game_image_url: 

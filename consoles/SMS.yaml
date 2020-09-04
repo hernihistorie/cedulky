@@ -1,0 +1,22 @@
+name: SEGA MASTER SYSTEM
+
+years: 1985 - 1992
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 4 MHz Zilog Z80 CPU
+    - 8KB RAM
+    - grafický čip VDP (TMS9918) s 16KB RAM
+    - rozlišení typicky 256×192, až 64 barev
+    - 4 zvukové kanály
+
+text: >
+      První domácí konzole od Segy, SG-1000 z roku 1983, se kvůli hardware, který byl méně výkonný než u konkurence, ukázala jako neúspěch. Proto už roku 1985 přišla Sega s nástupcem v podobě Mark III později přejmenované mimo Japonsko na Master System. Šlo o konzoli stejného rázu, ale její schopnosti byly znatelně vyšší. Master System četl data z kromě tradičních herních cartridgí i z kompaktních nízkokapacitních karet určených jako levná alternativa pro menší hry. Z externích periferií stojí za zmínku 3D brýle, které přinesly asi nejkvalitnější stereoskopické 3D své doby. Pozdější redesign v podobě Master System II odstranil některé méně využívané prvky, jako slot na herní karty nebo Pause tlačítko za účelem snížení výrobních nákladů a tím i pořizovací ceny, ale ani to ale nepomohlo překonat monopol Nintenda v USA a jeho silné postavení v Japonsku. V Evropě a Jižní Americe se sice Master Systemu dařilo, ale zkrátka to nestačilo. Pouhé tři roky po uvedení na trh byl Master System překonán novou konzolí od Segy, Mega Drivem, jehož vývoj byl urychlený z důvodu vytvoření silnější konkurence pro doposud nepřekonané Nintendo. Brazilský distributor Tectoy udržoval Master System v prodeji ještě dlouho po skončení oficiální podpory a kromě vlastních her ho přiživoval i nelicencovanými porty z handheldu Sega Game Gear.
+
+game: 
+
+game_image_url: 

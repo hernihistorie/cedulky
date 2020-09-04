@@ -1,0 +1,21 @@
+name: Atari 2600
+
+years: 1977 - 1992
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 1,19 MHz MOS Technology 6507 CPU (osekaná 6502)
+    - 128 bajtů RAM
+    - video max. 160 x 192 pixelů, 128 barev
+    - 2 1-bitové zvukové kanály
+
+text: >
+      I když nebyla Atari 2600 úplně první konzole obsahující mikroprocesor, šlo o první úspěšnou domácí konzoli toho druhu na trhu předešle zaplněném konzolemi se zabudovanými hrami. Na trh USA vstoupilo roku 1977 pod názvem VCS (Video Computer System) a v krátkém období získalo značnou popularitu. Hlavním konkurentem mu byl VES (Video Entertainment System) firmy Fairchild, podle jehož názvu vznikl název VCS, který se změnil na Atari 2600 až po vydání Atari 5200. Lidé si zvykli na výměnné cartridge a programátoři si zvykli na standarty Atari 2600, což vedlo ke zvýšení kvantity i kvality herní nabídky, díky čemuž Atari vytlačilo Fairchild a kompletně ovládlo trh domácích konzolí nejen v Severní Americe, ale i západní Evropě. Atari ale odmítalo u her uvádět konkrétní programátory, což vedlo k jejich odchodu a zakládání externích vývojářských studií jako byl Activision. I přes obrovské množství prodávaných her se trh zdál i nadále nenasytitelný a Atari se toho rozhodlo využít masovou produkcí her podle úspěšných licencí jako Pac-Man a E.T. ale špatný odhad prodejnosti vedl k tzv. Videohernímu krachu, který znamenal konec samostatného Atari a vývoje nových konzolí. Prodej existujících modelů ale pokračoval až do roku 1992.
+
+game: 
+
+game_image_url: 

@@ -1,0 +1,22 @@
+name: MSX
+
+years: 1983 - 1995
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 3,58 MHz Zilog Z80A CPU
+    - typicky 32 či 64 kB RAM
+    - grafický čip TMS9918 s 16 kB Video RAM
+    - rozlišení 256×192 (15 barev)
+    - PSG zvukový čip AY-3-8910 (4 kanály)
+
+text: >
+      Počátkem 80. let nebyla ve standartech domácích počítačů žádná jednotnost a téměř každá firma vyráběla zařízení nekompatibilní s počítači ostatních výrobců. Architektura MSX byla vyvíjena speciálně za účelem tento status změnit. Jde o počítačový standart vytvořený ASCII Company za pomoci společnosti Microsoft, která poskytla BASIC ve firmwarové verzi používané jako základní uživatelské rozhraní těchto počítačů. Nejvýznamějšími výrobci MSX počítačů byly firmy jako Sony, Panasonic, Philips, Yamaha, nebo Daewoo. Všechny vyráběly své vlastní verze MSX, ale významným prvkem bylo kompletní zachování programové kompatibility s ostatními modely. Zajímavostí byla také vhodnost hardwaru pro videohry, díky čemuž zde vzniklo plno kvalitních a významných titulů. MSX počítače se dočkaly nejvýznamnějších úspěchů na východě Asie, ale popularity se dočkaly i v Jižní Americe a různých částech Evropy. Kamenem úrazu pro přetrvání značky byl ale její totální neúspěch v USA, kde se místo toho prosadily domácí firmy jako IBM nebo Apple.
+
+game: 
+
+game_image_url: 

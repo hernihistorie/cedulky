@@ -1,0 +1,22 @@
+name: GAME BOY
+
+years: 1989 - 2003
+
+bullets:
+    - 
+    - 
+    - 
+
+specs:
+    - 4,19 MHz CPU
+    - 8 kB RAM
+    - 8 kB video RAM
+    - displej 160 × 144 (4 barvy)
+    - 4 AA baterie
+
+text: >
+      Po úspěchu Game & Watch (1980), jednoúčelových konzolí do ruky, přišlo Nintendo s konzolí, která nabízela vyměnitelné hry v podobě kazetek s kapacitou od 256 kB do 8 MB. Game Boy dokázal zobrazovat jen 4 odstíny šedé (kontrast šel regulovat pomocí kolečka na straně), ale přesto byl pro Nintendo obrovským úspěchem a s víc jak 65 miliony prodaných kusů překonal konkurenci v podobě konzolí SEGA Game Gear, Atari Lynx a TurboExpress, které všechny disponovaly barevnými displeji. Hlavními důvody byla znatelně nižší pořizovací cena, mnohem delší výdrž baterek (asi 30 hodin hraní) a tehdejší postavení Nintenda na západním trhu. Původní Game Boy byl dostupný pouze v šedé barvě, ale s příchodem speciální edice Play It Loud! vznikly další barevné varianty konzole, což se stalo standartem pro pozdější konzole do ruky od Nintenda.
+
+game: 
+
+game_image_url: 
