@@ -8,10 +8,10 @@ bullets:
     - Většina her nachází inspiraci na arkádovém trhu
 
 specs:
-    - 1,19 MHz MOS Technology 6507 CPU (osekaná 6502)
+    - 1,19 MHz MOS Technology 6507 CPU
     - 128 bajtů RAM
     - video max. 160 x 192 pixelů, 128 barev
-    - 2 1-bitové zvukové kanály
+    - 2 zvukové kanály navržené pro efekty
 
 text: >
       Atari VCS byla navržená pro konverze arkádových hitů od Atari, jako Pong a Tank, ale opravdový rozlet zažila až se získáním licence na cartridge Space Invaders. U jednotlivých her ale nebyla veřejně známá jména programátorů a hity s milionovými prodeji se nijak neodrážely na platovém ohodnocení. Takže se rozhořečná skupina odpadlíků rozhodla založit firmu Activision, prvního vývojáře třetí strany. Další následovali a americký trh rostl raketovou rychlostí. Obchody si objednávaly násobně víc her, než opravdu chtěly, aby se na ně dostalo i po zkrouhnutí počtů. Bublina praskla na vánoce roku 1982 a vydání nízkou kvalitou proslulých her s E.T. mimozemšťanem a Indiana Jonesem bylo už jen poslední kapkou.
