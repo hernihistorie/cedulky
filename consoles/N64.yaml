@@ -1,21 +1,24 @@
-name: NINTENDO 64
+name: Nintendo 64
 
 years: 1996 - 2003
 
 bullets:
-    - 
-    - 
-    - 
+    - První konzole v základu s analogovou páčkou
+    - Čtyři ovladače bez příslušenství nabízí bohatý režim pro více hráčů
+    - Ovladač lze rozšířit o paměťovou kartu, vibrace, či propojit s Game Boy hrou
 
 specs:
     - 93,75 MHz NEC VR4300 CPU
-    - 4 MB RAM rozšířitelná na 8 MB
+    - 4 MB RAM rozšiřitelná na 8 MB
     - 62,5 MHz „Reality“ video koprocesor se 4 KB paměti
     - rozlišení 320×240 nebo 648×480 (většinou pouze s rozšířenou pamětí)
 
 text: >
-      Nintendo získalo velkého protihráče v konzoli Playstation od Sony a doba si žádala změnu do 3D grafiky. I přesto, že na SNES vycházely hry s přidaným čipem pro možnost jednoduchého 3D, bylo jasné, že další systém by měl vyjít co nejdříve. Nintendo 64 se ale zpozdilo zhruba o rok od původního plánu, a to kvůli čekání na vypilování hry Super Mario 64, která měla být k dispozici hned při vydání. Systém měl nabídnout obrovský výkon 64-bitového procesoru, ale kontroverzně zůstával u formátu herních kazetek, což odehnalo významné vývojáře (jako Square Enix) ke konkurenci. I když se neustálé zdržování a rozhodnutí nevyužít nového formátu CD negativně podepsalo na prodejích, jsou hry na Nintendo 64 považovány za mistrovská díla, která dokázala udělat z 3D her víc než jen módní trend. Mario dokázal vytvořit ideál 3D skákačky a na poli dobrodružného RPG zase zabodovala Legend of Zelda: Ocarina of Time.
+      **Nintendo** získalo velkého protihráče v konzoli **Playstation** od **Sony** a doba si žádala změnu do 3D grafiky. I přesto, že na **SNES** vycházely hry s přidaným čipem pro možnost jednoduchého 3D, bylo jasné, že další systém by měl vyjít co nejdříve. **Nintendo 64** se ale zpozdilo zhruba o rok od původního plánu, a to i kvůli čekání na vypilování hry **Super Mario 64**, která měla být k dispozici hned při vydání. Systém měl nabídnout obrovský výkon 64-bitového procesoru, ale kontroverzně zůstával u formátu herních kazetek, což odehnalo významné vývojáře (jako **Square Enix**) ke konkurenci. I když se neustálé zdržování a rozhodnutí nevyužít nového formátu CD negativně podepsalo na prodejích, jsou hry na **Nintendo 64** považovány za mistrovská díla, která dokázala udělat z 3D her víc než jen módní trend. Mario dokázal vytvořit ideál 3D skákačky a na poli dobrodružného RPG zase zabodovala **The Legend of Zelda: Ocarina of Time**.
 
-game: 
+game: >
+    The Legend of Zelda:
+    
+    Ocarina of Time
 
-game_image_url: 
+game_image_url: https://upload.wikimedia.org/wikipedia/en/1/14/ZELDA_OCARINA_OF_TIME.jpg

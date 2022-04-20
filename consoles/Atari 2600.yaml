@@ -1,27 +1,21 @@
-name: Atari Video Computer System / 2600
+name: Atari 2600
 
 years: 1977 - 1992
 
 bullets:
-    - První úspěšná konzole s výměnnými hrami
-    - Proslula jako hlavní aktér amerického herního krachu
-    - Většina her nachází inspiraci na arkádovém trhu
+    - Známé hry z arkád poprvé hratelné doma
+    - Grafická paměť pouze pro jeden řádek kladla vysoké nároky na programátory
+    - Pirátské klony dostupné dlouho po konci podpory
 
 specs:
     - 1,19 MHz MOS Technology 6507 CPU
     - 128 bajtů RAM
-    - video max. 160 x 192 pixelů, 128 barev
-    - 2 zvukové kanály navržené pro efekty
+    - video max. 160 × 192 pixelů, 128 barev
+    - Dva kanály na zvukové efekty
 
 text: >
-      Atari VCS byla navržená pro konverze arkádových hitů od Atari, jako Pong a Tank, ale opravdový rozlet zažila až se získáním licence na cartridge Space Invaders. U jednotlivých her ale nebyla veřejně známá jména programátorů a hity s milionovými prodeji se nijak neodrážely na platovém ohodnocení. Takže se rozhořečná skupina odpadlíků rozhodla založit firmu Activision, prvního vývojáře třetí strany. Další následovali a americký trh rostl raketovou rychlostí. Obchody si objednávaly násobně víc her, než opravdu chtěly, aby se na ně dostalo i po zkrouhnutí počtů. Bublina praskla na vánoce roku 1982 a vydání nízkou kvalitou proslulých her s E.T. mimozemšťanem a Indiana Jonesem bylo už jen poslední kapkou.
-      
-      Absence regulace trhu a nepříliš úspěšný nástupce Atari 5200 položily Atari na kolena, navzdory sedmi miliónům prodaných kusů nedávno vydané konverze Pac-Mana. Sekce obstarávající domácí trh byla odprodána a z ní nově založená Atari Corporation se ještě nějakou dobu snažila znovu dostat na výsluní. Stařičké Atari 2600 jí v tom pomáhalo, protože bylo stálým přísunem financí díky pozici levné herní alternativy na západoevropském a nějakou dobu i americkém trhu. U nás na východě se ale po revoluci častěji vyskytovaly neoriginální klony, například s motivem Ramba na přebalu.
+      I když nebyla **Atari 2600** úplně první konzole obsahující mikroprocesor, šlo o první úspěšnou domácí konzoli toho druhu na trhu předešle zaplněném konzolemi se zabudovanými hrami. Na americký trh vstoupilo roku 1977 pod názvem **VCS** (Video Computer System) a v krátkém období získalo značnou popularitu. Hlavním konkurentem mu byl **VES** (Video Entertainment System) firmy **Fairchild**, podle jehož názvu vznikl název VCS, který se změnil na Atari 2600 až po vydání Atari 5200. Lidé si zvykli na výměnné cartridge a programátoři si zvykli na standarty Atari 2600, což vedlo ke zvýšení kvantity i kvality herní nabídky, díky čemuž Atari vytlačilo Fairchild a kompletně ovládlo trh domácích konzolí nejen v Severní Americe, ale i západní Evropě. Atari ale odmítalo u her uvádět konkrétní programátory, což vedlo k jejich odchodu a zakládání externích vývojářských studií jako byl **Activision**. I přes obrovské množství prodávaných her se trh zdál i nadále nenasytitelný a Atari se toho rozhodlo využít masovou produkcí her podle úspěšných licencí jako **Pac-Man** a **E.T.** ale špatný odhad prodejnosti vedl k tzv. Videohernímu krachu, který znamenal konec samostatného Atari a vývoje nových konzolí. Prodej existujících modelů ale pokračoval až do roku 1992.
 
-stats:
-    Prodaných systémů: ~30 000 000
-    Vydáno her: ~500 (USA), ~250 (Evropa), ~40 (Japonsko) 
-    
-game: River Raid
+game: Pitfall!
 
-game_image_url: static/atari2600/river_raid.jpg
+game_image_url: https://blog.activision.com/content/dam/atvi/activision/atvi-touchui/blog/activision/feature/Pitfall-Tout_A.jpg
