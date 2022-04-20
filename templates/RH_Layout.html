@@ -5,7 +5,7 @@
  <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" rel="stylesheet"> 
-<meta charset="1201">
+<meta charset="utf-8">
 <style>
   html {
     background-color: #ddd;
@@ -73,6 +73,7 @@
   footer {
     font-size: 16pt;
     margin-top: 25px;
+    position: relative; top: 16px;
   }
 
   footer img {
@@ -87,7 +88,7 @@
 
 <body>
    <div style="height: 70mm"> 
-        <span style="position: absolute; top: 50px; right: 60px">
+        <span style="position: absolute; top: 50px; right: 68px">
           <img src="static/rh_logo.png" style="height: 65mm">
         </span>
         <h1 style="width: 570px">
@@ -100,14 +101,14 @@
         </ul>
     </div>
 
-    <div style=" display: flex; align-items: center;">
+    <div style=" display: flex; align-items: center; padding-right: 8px;">
         {{ text | markdown }}
     </div>
 
     <div style="height: 70mm; margin-top: 24px;">
-      <div style="float: right; /* max-width: 68mm;*/ padding-left: 12px;">
+      <div style="float: right; /* max-width: 68mm;*/ padding-left: 12px;  padding-right: 8px;">
           <div class="img">
-            <img src="{{ game_image_url }}" style="max-width: 100%; max-height: 50mm;">
+            <img src="{{ game_image_url }}" style="max-width: 100%; max-height: 55mm;">
           </div>
         <p style="white-space: pre-line; text-align: center;">{{ game }}</p>  
       </div>  		                 
