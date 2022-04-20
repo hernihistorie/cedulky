@@ -94,15 +94,15 @@
         <h1 style="width: 570px">
           {{ name }} ({{years}})
         </h1>
-        <ul style="position: relative; top: 20px; padding-left: 16px; width: 570px;">
+        <ul style="position: relative; top: 20px; padding-left: 16px; width: 540px;">
             {% for line in bullets %}
               <li>{{ line }}
             {% endfor %}	
         </ul>
     </div>
 
-    <div style=" display: flex; align-items: center; padding-right: 8px;">
-        {{ text | markdown }}
+    <div style="padding-right: 8px;">
+        {{ text | markdown | replace("\n", "<p>"|safe) }}
     </div>
 
     <div style="height: 70mm; margin-top: 24px;">

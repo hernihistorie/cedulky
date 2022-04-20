@@ -1,11 +1,11 @@
-name: PLAYSTATION
+name: Sony PlayStation
 
 years: 1994 - 2005
 
 bullets:
-    - 
-    - 
-    - 
+    - První konzole, které se povedlo překonat hranici 100 milionů prodaných kusů
+    - Úspěch v Evropě díky otevření trhu východních zemí
+    - Ikonická polygonální 3D grafika, ke které se dodnes kultovní hry vrací
 
 specs:
     - 33,8688 MHz MIPS R3000A CPU
@@ -15,8 +15,8 @@ specs:
     - 24-kanálový PCM zvuk
 
 text: >
-      Na přelomu roku 1994 a 1995 se Sony naskytla skvělá příležitost vstoupit na konzolový trh. Sega kvůli 32X a Saturnu přicházela o dobrou pověst, zatímco konzole SNES od Nintenda zastarávala a její nástupce byl v nedohlednu. Sony vědělo, jak důležité jsou hry pro úspěch nové konzole a hned ze začátku na svou stranu natáhlo významná externí studia jako Squaresoft nebo Konami a dalo jim k dispozici kvalitní vývojářské nástroje. Ovladače PlayStationu disponovaly čtyřmi „shoulder“ tlačítky, což byla designová novinka, která umožnila více tlačítek bez ztráty pohodlí ovládání. Na pozdější revize prvního ovladače přibyly dvě analogové páčky, což vytvořilo podobu ovladače, která se prakticky beze změny udržela až do současnosti. Z hlediska toho, co mohli vývojáři nabídnout hráčům hrály velkou roli flexibilní paměťové karty a velkokapacitní média v podobě CD, která mnohonásobně překonávala do té doby rozšířené cartridge.
+      Na přelomu roku 1994 a 1995 se Sony naskytla skvělá příležitost vstoupit na konzolový trh. **Sega** kvůli **32X** a **Saturnu** přicházela o dobrou pověst, zatímco konzole **SNES** od **Nintenda** zastarávala a její nástupce, jejíž původně společný vývoj s firmou **Sony** selhal kvůli rozporu, byl v nedohlednu. Sony vědělo, jak důležité jsou hry pro úspěch nové konzole a hned ze začátku na svou stranu natáhlo významná externí studia jako **Squaresoft* nebo **Konami** a dalo jim k dispozici kvalitní vývojářské nástroje. Ovladače PlayStationu disponovaly čtyřmi „shoulder“ tlačítky, což byla designová novinka, která umožnila více tlačítek bez ztráty pohodlí ovládání. Na pozdější revize prvního ovladače přibyly dvě analogové páčky, což vytvořilo podobu ovladače, která se prakticky beze změny udržela až do současnosti. Z hlediska toho, co mohli vývojáři nabídnout hráčům hrály velkou roli flexibilní paměťové karty a velkokapacitní média v podobě CD, která mnohonásobně překonávala do té doby rozšířené cartridge.
 
-game: 
+game: Tekken 3
 
-game_image_url: 
+game_image_url: /static/ps1/tekken 3.jpg
