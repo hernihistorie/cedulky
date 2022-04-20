@@ -17,6 +17,9 @@ def index():
     consoles = []
     for filename in os.listdir("consoles"):
         consoles.append(filename.split(".")[0])
+    
+    consoles.sort(key=lambda x: x.lower())
+
     return render_template("index.html",
         consoles=consoles
     )

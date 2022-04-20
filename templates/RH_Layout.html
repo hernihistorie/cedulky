@@ -7,60 +7,104 @@
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" rel="stylesheet"> 
 <meta charset="1201">
 <style>
+  html {
+    background-color: #ddd;
+  }
+  /* see https://github.com/delight-im/HTML-Sheets-of-Paper/blob/gh-pages/css/sheets-of-paper-a4.css */
   body {
-    width: 160mm;
-     height: 237mm; 
-     margin: 25mm 25mm 25mm 25mm; 
-     }    
+    background-color: white;
+    width: 21cm;
+    /* Reflect the paper height in the screen rendering (must match size from @page rule) */
+    min-height: 29.7cm;
+
+    /* Reflect the actual page margin/padding on paper in the screen rendering (must match margin from @page rule) */
+    padding-left: 2cm;
+    padding-top: 2cm;
+    padding-right: 2cm;
+    padding-bottom: 2cm;
+    position: absolute;
+    
+
+    display: flex;  flex-direction: column; justify-content: space-between;
+  }
+
+  @page {
+    /* You can only change the size, margins, orphans, widows and page breaks here */
+
+    /* Paper size and page orientation */
+    size: A4 portrait;
+
+    /* Margin per single side of the page */
+    margin-left: 2cm;
+    margin-top: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 2cm;
+  }
 
   h1 {
+    margin-top: 0; margin-bottom: 0;
     font-family: amatic sc;
     color: #ee234f; 
-    font-size: 25pt;
+    font-size: 40pt;
     text-transform: uppercase;
-    }
+  }
     
-p {
+  body, p {
    font-family: comfortaa; 
-   font-size: 11pt; 
+   font-size: 14pt; 
+  }
+
+  p {
    line-height: 1.5em;
-   
-   }
+  }
 
   li {
     font-family: comfortaa; 
-    font-size: 11pt; 
+    font-size: 14pt;
     line-height: 1.5em;
-    }
+  }
     
-    .img {
-      border-width: 5; 
-      border-style: solid; 
-      border-color: #ee234f 
-      }           
+  .img {
+    border-width: 5; 
+    border-style: solid; 
+    border-color: #ee234f 
+  }
+
+  footer {
+    font-size: 16pt;
+    margin-top: 25px;
+  }
+
+  footer img {
+     vertical-align: middle;
+  }
+
+  hr {width: 204mm;  height: 0px; background-color: #ee234f;
+    margin-bottom: 28px; border: 2.5px solid #ee234f;
+  }
 </style>
 </head>
 
 <body>
-   <div style="height: 45mm"> 
-        <span style="position: absolute; top: 50; left: 550">
-          <img src="static/rh_logo.png" style="height: 50mm">
+   <div style="height: 70mm"> 
+        <span style="position: absolute; top: 50px; right: 60px">
+          <img src="static/rh_logo.png" style="height: 65mm">
         </span>
-        <h1 style="width: 110mm">
+        <h1 style="width: 570px">
           {{ name }} ({{years}})
         </h1>
-        <ul style="position: relative; top: 20px; padding-left: 16px; width: 400px;">
+        <ul style="position: relative; top: 20px; padding-left: 16px; width: 570px;">
             {% for line in bullets %}
               <li>{{ line }}
             {% endfor %}	
         </ul>
     </div>
 
-    <div style="height: 115mm; display: flex; align-items: center;">
+    <div style=" display: flex; align-items: center;">
         {{ text | markdown }}
     </div>
 
-    <div style="height: 70mm; ">
+    <div style="height: 70mm; margin-top: 24px;">
       <div style="float: right; /* max-width: 68mm;*/ padding-left: 12px;">
           <div class="img">
             <img src="{{ game_image_url }}" style="max-width: 100%; max-height: 50mm;">
@@ -76,27 +120,21 @@ p {
         </p>
     </div>
  
-  <hr style="position: absolute; left: 85" width="625" size="5" color="#ee234f" align="center">
 
-<div style="margin-top: 20">
-	<p style="position:absolute; text-align:left;">	
- 		<img src="static/facebook.png" width="46" height="46">
- 	</p>
- 	<div style="margin-left: 50px">
-    <p style="position:absolute; float:left; font-size: 22">    
-        @RetroHerna
-    </p>
-	</div>
-    <p style="float: right;">	
-      <img src="static/web.png" width="46" height="46">
-    </p>
- 	</p>
- 	<div style="margin-right: 53px">
-    <p style="position: relative; float: right; font-size: 22">    
-        www.retroherna.org
-    </p>
+<footer>
+  <hr>
+
+  <div style="display: flex; justify-content: space-between;">
+    <div style="vertical-align: middle;">
+   		<img src="static/facebook.png" width="46" height="46">
+      &nbsp; @RetroHerna
     </div>
-</div>
+    <div>
+        www.retroherna.org &nbsp;
+      <img src="static/web.png" width="46" height="46">
+    </div>
+  </div>
+</footer>
 </body>
 
 </html>
