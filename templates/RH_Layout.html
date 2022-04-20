@@ -1,100 +1,102 @@
 <html>
-
 <head>
-  <title>{{ name }}</title>
-  <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Comfortaa&amp;subset=latin-ext" rel="stylesheet">
-  <meta charset="1201">
-  <style>
-    body {
-      width: 160mm;
-      height: 237mm;
-      margin: 25mm 25mm 25mm 25mm;
-    }
+<title>{{ name }}</title>
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" rel="stylesheet"> 
+<meta charset="1201">
+<style>
+  body {
+    width: 160mm;
+     height: 237mm; 
+     margin: 25mm 25mm 25mm 25mm; 
+     }    
 
-    h1 {
-      font-family: amatic sc;
-      color: #ee234f;
-      font-size: 25pt;
+  h1 {
+    font-family: amatic sc;
+    color: #ee234f; 
+    font-size: 25pt;
+    text-transform: uppercase;
     }
+    
+p {
+   font-family: comfortaa; 
+   font-size: 11pt; 
+   line-height: 1.5em;
+   
+   }
 
-    p {
-      font-family: comfortaa;
-      font-size: 11pt;
-      line-height: 1.5em
+  li {
+    font-family: comfortaa; 
+    font-size: 11pt; 
+    line-height: 1.5em;
     }
-
-    li {
-      font-family: comfortaa;
-      font-size: 11pt;
-      line-height: 1.5em
-    }
-
+    
     .img {
-      border-width: 5;
-      border-style: solid;
-      border-color: #ee234f
-    }
-  </style>
+      border-width: 5; 
+      border-style: solid; 
+      border-color: #ee234f 
+      }           
+</style>
 </head>
 
 <body>
-  <div style="height: 45mm">
-    <span style="position: absolute; top: 50; left: 550">
-      <img src="static/rh_logo.png" style="height: 50mm">
-    </span>
-    <h1 style="width: 110mm">
-      {{ name }} ({{years}})
-    </h1>
-    <span style="position: relative; top: 20px">
-      {% for line in bullets %}
-      <li>{{ line }}
-        {% endfor %}
-    </span>
-  </div>
-
-  <div style="height: 115mm">
-    <p style="float:left">
-      {{ text | replace("\n", "<p>") | safe }}
-    </p>
-  </div>
-
-  <div style="height: 70mm;">
-    <div style="float: right">
-      <div class="img">
-        <img src="{{ game_image_url }}" style="max-width: 100%; max-height: 50mm;">
-      </div>
-      <p>{{ game }}</p>
+   <div style="height: 45mm"> 
+        <span style="position: absolute; top: 50; left: 550">
+          <img src="static/rh_logo.png" style="height: 50mm">
+        </span>
+        <h1 style="width: 110mm">
+          {{ name }} ({{years}})
+        </h1>
+        <ul style="position: relative; top: 20px; padding-left: 16px; width: 400px;">
+            {% for line in bullets %}
+              <li>{{ line }}
+            {% endfor %}	
+        </ul>
     </div>
 
-    <p>
-      <b><u>Hardware specifikace:</u></b><br>
-      {% for line in specs %}
-      <li>{{ line }}
-        {% endfor %}
-    </p>
-  </div>
+    <div style="height: 115mm; display: flex; align-items: center;">
+        {{ text | markdown }}
+    </div>
 
+    <div style="height: 70mm; ">
+      <div style="float: right; /* max-width: 68mm;*/ padding-left: 12px;">
+          <div class="img">
+            <img src="{{ game_image_url }}" style="max-width: 100%; max-height: 50mm;">
+          </div>
+        <p style="white-space: pre-line; text-align: center;">{{ game }}</p>  
+      </div>  		                 
+        
+        <p>
+            <b><u>Hardware specifikace:</u></b><br>
+            {% for line in specs %}
+                <li>{{ line | fix_spaces }}
+            {% endfor %}
+        </p>
+    </div>
+ 
   <hr style="position: absolute; left: 85" width="625" size="5" color="#ee234f" align="center">
 
-  <div style="margin-top: 20">
-    <p style="position:absolute; text-align:left;">
-      <img src="static/facebook.png" width="46" height="46">
-    </p>
-    <div style="margin-left: 50px">
-      <p style="position:absolute; float:left; font-size: 22">
+<div style="margin-top: 20">
+	<p style="position:absolute; text-align:left;">	
+ 		<img src="static/facebook.png" width="46" height="46">
+ 	</p>
+ 	<div style="margin-left: 50px">
+    <p style="position:absolute; float:left; font-size: 22">    
         @RetroHerna
-      </p>
-    </div>
-    <p style="float: right" "position: absolute;">
+    </p>
+	</div>
+    <p style="float: right;">	
       <img src="static/web.png" width="46" height="46">
     </p>
-    <div style="margin-right: 53px">
-      <p style="position: relative; float: right; font-size: 22">
+ 	</p>
+ 	<div style="margin-right: 53px">
+    <p style="position: relative; float: right; font-size: 22">    
         www.retroherna.org
-      </p>
+    </p>
     </div>
-  </div>
+</div>
 </body>
 
 </html>
