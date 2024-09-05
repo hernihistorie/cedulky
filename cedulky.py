@@ -1,7 +1,9 @@
 import re
 import os
 import yaml
-from flask import Flask, render_template, Markup
+from markupsafe import Markup
+# from flask import Flask, render_template, Markup
+from flask import Flask, render_template
 from flaskext.markdown import Markdown
 
 app = Flask(__name__)
