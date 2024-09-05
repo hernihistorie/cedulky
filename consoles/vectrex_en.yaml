@@ -1,0 +1,28 @@
+name: Vectrex
+years: 1982 - 1984
+image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vectrex-Console-Set.jpg/800px-Vectrex-Console-Set.jpg
+bullets:
+    - The only home system with a vector display
+    - Experience comparable to arcade machines
+    - Failed due to the video game crash
+
+specs:
+    - 1,5 MHz Motorola MC68A09 CPU
+    - 1 kiB RAM
+    - 5x8 inch screen with the resolution of 255x255 and transparent colored sheets
+    - AY-3-8912 sound chip with three square wave channels
+    - 8 KiB ROM with a built-in game, Mind Storm
+    - Cartridges typically 4-12 KiB
+
+text: >
+      Vectrex was really a unique specimen among home consoles. In times when none of them could compete with the graphics and performance of arcade machines, ports of big arcade hits became really attractive. However, no system could bring the real arcade experience home, except Vectrex perhaps. Its built-in vector display was ideal for many variations of well-known **Asteroids**. Furthermore, several classics like **Berzerk** or **Pole Position**. However, it was released in an unfortunate time, and in 1983, the great **“video game crash”**, which has led to the end of most home systems at the time, has occured. Vectrex couldn't even get started, and its innovative ideas like **3D goggles**, (which almost marked the first use of 3D technology for gaming, the first one being quite an unsuccessful attempt of a single arcade machine) or a light pen ended up being forgotten. Outside of America, where home consoles were competing with personal computers, Vectrex still held on for a while, but in 1984, it too became a forgotten gem of the video game history. But thanks to its uniqueness, it is still popular among fans, who continue to create games and even hardware for it. After all, that's the only way to get vector games to your home.
+ 
+stats:
+    Systems sold: <1 000 000
+    Games released: 30
+
+game: Mine Storm
+
+game_image_url: http://3.bp.blogspot.com/_KNZH403imb4/S6U77mfZaoI/AAAAAAAAAXs/GrW8JY_G-ck/s400/minestorm.jpg
+
+

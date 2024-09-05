@@ -1,0 +1,24 @@
+name: Nintendo 64
+
+years: 1996 - 2003
+
+bullets:
+    - First console to come with an analog stick by default
+    - Four controller ports provide a rich multiplayer experience
+    - The controller has a slot for memory cards, rumble packs, and Gameboy transfer packs
+
+specs:
+    - 93,75 MHz NEC VR4300 CPU
+    - 4 MB RAM with an expansion to 8 MB
+    - 62,5 MHz „Reality“ video coprocessor with 4 KB of memory
+    - Resolution of 320×240 or 648×480 (typically only with the expansion)
+
+text: >
+      When **Playstation** from **Sony** was released, **Nintendo** has met its new contender in the console market and it became crucial to advance into the world of 3D graphics. Although the **SNES** already had games with primitive 3D graphics when a special chip was used, it was clear that the next system should be released as soon as possible. However, the release of **Nintendo 64** happened about one year later than planned due to the development of **Super Mario 64** which was supposed to be available at the day of launch. The system promised to deliver a huge performace of the 64-bit CPU, but at the same time controversially still made use of cartridges, which made some significant developers, such as Sqare Enix, switch to the competing consoles. Even if the delayed release and the decision to not make use of the CD format affected the sales negatively, the games that got released on **Nintedo 64** are considered masterpieces which made 3D games more than just a trend. While Mario became the ideal 3D platformer, **The Legend of Zelda: Ocarina of Time** was a huge success in the field of adventure RPGs.
+
+game: >
+    The Legend of Zelda:
+    
+    Ocarina of Time
+
+game_image_url: https://upload.wikimedia.org/wikipedia/en/1/14/ZELDA_OCARINA_OF_TIME.jpg
