@@ -1,0 +1,24 @@
+name: Nintendo Entertainment System
+
+years: 1983 - 2003
+
+bullets:
+    - Revived the market after the great video game crash
+    - Origin of many still popular video game series
+    - Clever hardware design kept up with technological advancements
+
+specs:
+    - 1,79 MHz Ricoh 2A03 CPU (klon 6502)
+    - 2kb RAM
+    - 2kb video RAM
+    - video 256×240
+
+text: >
+    Nintendo was already in a good position in Japan, so it entered the market with the **Famicom** (Family Computer System). It quickly became very popular and, with its advanced graphics, managed to bring back arcade titles to TV screens.
+    It wasn't as easy in America, where the video game industry had just suffered the great video game crash and this new console struggled to gain popularity. Eventually, with hits like **Super Mario Bros.** and the hard work of a few Nintendo of America employees, the console, which changed its name to **NES** (Nintendo Entertainment System), finally succeeded. Due to the lack of competition after the great video game crash (except for **Sega Master System** which became popular in Europe), Nintendo quickly defined what video games meant to most of the world.
+    The NES stayed on the market for over 10 years and became an iconic game console.
+    
+
+game: Super Mario Bros.
+
+game_image_url: https://upload.wikimedia.org/wikipedia/en/5/50/NES_Super_Mario_Bros.png
