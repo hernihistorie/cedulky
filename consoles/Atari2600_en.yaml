@@ -1,0 +1,25 @@
+name: Atari 2600
+
+years: 1977 - 1992
+
+bullets:
+    - Brought popular arcade games home for the first time
+    - Very limited memory made programming challenging
+    - Bootleg clones available long after official support ended
+
+specs:
+    - 1,19 MHz MOS Technology 6507 CPU
+    - 128 bytes of RAM
+    - video max. 160 × 192 pixels, 128 colors
+    - Two sound channels
+
+text: >
+    Although **Atari 2600** wasn't the first console with a microprocessor, it was the first successful home console of its kind in a market full of consoles with built-in games.
+    First entered the American market in 1977 under the name **VCS** (Video Computer System) and quickly gained popularity. Its main competitor was **VES** (Video Entertainment System) by the company **Fairchild**, which inspired the name VCS. VCS was later renamed to Atari 2600 after the release of Atari 5200.
+    People got used to swappable cartridges and programmers got used to Atari 2600 standards, which led to an increase in both quantity and quality of the released games. This allowed Atari to push Fairchild out of the market and completely dominate the home console market not only in North America, but also in Western Europe.
+    However, Atari refused to credit specific programmers for their games, which made a lot of them leave and start their own studios, such as **Activision**.
+    Despite the huge number of games sold, the market still seemed insatiable and Atari decided to take advantage of that by mass-producing games based on successful brands like **Pac-Man** and **E.T.**. However, the sales estimates were off and the market became oversaturated, leading to the so-called Video Game Crash of 1983. This meant the end of independent Atari and further console development. Even still, the existing models were sold until 1992.
+
+game: Pitfall!
+
+game_image_url: https://blog.activision.com/content/dam/atvi/activision/atvi-touchui/blog/activision/feature/Pitfall-Tout_A.jpg
