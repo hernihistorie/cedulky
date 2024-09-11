@@ -1,0 +1,25 @@
+name: Virtual Boy
+years: 1995 - 1996
+image_url: https://upload.wikimedia.org/wikipedia/commons/4/44/Virtual-Boy-Set.jpg
+bullets:
+  - First 32-bit system from Nintendo
+  - Console promising VR experience as early as 1995
+  - Unsuccessful project, now considered an oddity
+specs:
+  - 20 MHz NEC V810 CPU (32bit RISC system)
+  - 192 KB RAM, 128 KB Video RAM
+  - Monocrhome red LED display 284×224 pixels with 4 shades of red
+  - Custom sound chip with 5 waveform channels and 1 noise channel
+  - Cartridge with typical capacity of 0,5-2 MiB
+text: >
+  Motivation to create Virtual Boy was a VR craze during the first half of 90's. Main gimmick of this console was high quality stereoscopic 3D visuals a effectively simulated surround sound − both inside of statically placed VR glasses ready to immerse players in 3D virtual space. Graphic performance of Virtual Boy wasn't as high as needed though, which resulted in release of only few genuinely 3D games. Most of games were in fact 2D with some added stereoscopic visuals.
+
+  Virtual Boy made a name for itself as one of biggest failures of Nintendo, but one of main reasons was not the quality of system itself as much as its presentation. Both advertisements and packaging were covered by warnings about possibility of eyesight damage, presented console as not suitable for children under 7 years old. The monochromatic image also had a hard time to compete with colorful fully 3D graphics of Sony PlayStation, one of Virtual Boy's competitions at its time. The end of support not even a year after its release resulted in only 22 released games, and only 14 in USA. At the end, the system didn't even reach EU market.
+
+stats:
+  Sold: 770 000
+  Games released: 14 (USA), 19 (Japan), 22 in total
+
+game: Virtual Boy Wario Land
+
+game_image_url: static/virtualboy/wario_land.png

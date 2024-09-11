@@ -1,0 +1,23 @@
+name: Sega Mega Drive
+
+years: 1988 - 1999
+
+bullets:
+  - Successfully attacked dominant position of Nintendo
+  - Its mascot Sonic the Hedgehog became an overnight sensation
+  - Two expansions, first one adding CD support and second one increasing performance were unsuccessful
+
+specs:
+  - 7,61 MHz Motorola 68000 CPU (with Z80 coprocessor)
+  - 64 kB RAM
+  - 64 kB video RAM
+  - picture resolution 320 x 224 (512 colors)
+
+text: >
+  Sega started to work on the successor to their Master System immediately after its arrival in the North American market, which was dominated by Nintendo at the time. The launch of the **Mega Drive** console in Japan the same week as the release of **Super Mario Bros. 3** was not a good start for Sega, and even later the Mega Drive struggled in its home country against the competing consoles **Super Famicom** (SNES) and **PC Engine** (TurboGrafx-16). Therefore, the decision was made to emphasize strong marketing when selling in the USA. A year after the Japanese release, the console came to the USA under the new name **Sega Genesis** and launched a highly aggressive advertising campaign that directly attacked the dominant NES.
+  Thanks to their faster entry into the new console generation, they were able to highlight their 16-bit hardware and also mocked NES's young target group, pitting it directly against the "cool" design of the Genesis aimed mainly at teenagers.
+  Although Sega did not gain a majority share of the US gaming market, it managed to break the deeply entrenched monopoly that Nintendo had built up after the video game crash of the 1980s. In Europe and South America, the Mega Drive had a much easier time thanks to the strong position of its predecessor. With all the popular titles that popped up during console war in the US, it had no trouble maintaining its position in the market and, in the case of South America, ruling it unrivaled.
+
+game: Sonic the Hedgehog
+
+game_image_url: https://upload.wikimedia.org/wikipedia/en/d/d3/MD_Sonic_the_Hedgehog.png

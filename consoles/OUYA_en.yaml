@@ -1,0 +1,28 @@
+name: OUYA
+
+years: 2013 - 2015
+
+bullets:
+  - Attempt to bring a new player to console market
+  - One of most successful kickstarter campaigns
+  - Saved by community
+
+specs:
+  - Android 4.1
+  - 1,7 GHz quad core Cortex-A9 CPU
+  - 1 GB DDR3 RAM
+  - 8 / 16 GB Flash memory
+  - Nvidia GeForce ULP GPU
+
+text: >
+  Announced in July 2012 with Kickstarter campaign following shortly after, OUYA became a fast crowdfunding succes. The goal of $950,000 was beaten almost immediately, the fundraiser surpassing $1,000,000 in 8 hours. The campaign ended a month later at impressive $8,596,475.
+
+  Despite being regularly − and wrongly − used as an example of a crowdfunding failure, OUYA shipped all preorders a year after, satisfying all backers.
+  Around that time, OUYA also announced the "Free the Games Fund", funding development of new exclusive games for their platform.
+  At the end, OUYA failed to live up to its potential. Insufficient marketing, lack of compelling games at launch and failure to find its niche on game market caused fast decline of the system, ending with financial issues and sale of company to Razer. On May 21, 2019, Razer announced discontinuation of OUYA's online services.
+
+  Thanks to swift reaction of game archival community, spearheaded by sCZther from our organization, alternative community store was developed and large number of games found its new home on it. This allows players to enjoy this interesting part of video game history to this day.
+
+game: TowerFall
+
+game_image_url: /static/towerfall.png
