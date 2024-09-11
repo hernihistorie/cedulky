@@ -1,0 +1,21 @@
+name: Super Nintendo Entertainment System
+
+years: 1990 - 2003
+
+bullets:
+    - A moderate next step after the NES
+    - Excellen sound quality thanks to a Sony sound chip
+    - Late games featured primitive 3D graphics using special chips in cartridges
+
+specs:
+    - 3,58 MHz Ricoh 5A22 CPU
+    - 128 kB RAM
+    - 96 kB video RAM
+    - video typically 256×224
+
+text: >
+    The success of **NES** made Nintendo famous, but after a few years of absolute dominance, competition in the form of the **Sega Mega Drive** (known as Genesis elsewhere) started to appear. In Japan, **SNES** became an instant hit, but in America, Mega Drive had already won the hearts of many players. SNES became famous, among other things, thanks to its unique sound chip, which was trully excellent for its time. While NES started well-known franchises, SNES featured more exotic titles, such as **F-Zero**, **Star Fox**, or **Donkey Kong Country**. SNES not only managed to survive the Mega Drive, but eventually even outsell it. And that's despite the capable mascot and rival presented by Sega, Sonic, who was a direct attack on the success of games starring Mario.
+
+game: F-Zero
+
+game_image_url: https://upload.wikimedia.org/wikipedia/en/d/d1/SNES_F-Zero.png
